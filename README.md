@@ -1,3 +1,5 @@
 # HuffmanCoding
-implement the complete Huffman coding scheme, from compute
-frequency to text compression and decompression.
+
+●	Wrote and implemented Huffman coding process.
+●	Compress file data by turning each character into unique binary code.
+●	decompress file data from binary code to original file.
